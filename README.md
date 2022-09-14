@@ -1,2 +1,2 @@
-# IOT-
-Face Recognition based Smart Attendance system.
+# IOT
+Ideathon-Face Recognition based Smart Attendance system.
